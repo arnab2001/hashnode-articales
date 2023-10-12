@@ -5,6 +5,7 @@ seoDescription: "Discover Terraform, the open-source Infrastructure as Code (IaC
 datePublished: Thu Oct 12 2023 18:56:29 GMT+0000 (Coordinated Universal Time)
 cuid: clnnjjm2m00000ajrfpgx23ak
 slug: terraform-a-beginners-guide-to-infrastructure-as-code-iac
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697140273423/6814f98d-a202-4fd9-9961-ac1384cfcb39.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697136544441/ac07acee-7900-4935-a5a1-9b6e38a5e415.png
 tags: aws, devops, infrastructure, terraform, infrastructure-as-code
 
