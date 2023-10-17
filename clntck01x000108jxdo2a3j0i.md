@@ -19,10 +19,6 @@ Node.js and Express have become go-to choices for building web applications and 
 
 gRPC is a high-performance, open-source, and universal remote procedure call (RPC) framework initially developed by Google. It leverages HTTP/2 for transport, Protocol Buffers (Protobuf) for interface definition, and supports multiple programming languages. gRPC offers advantages like bidirectional streaming, multiplexing, and automatic load balancing, making it an excellent choice for modern web applications.
 
-### **What is gRPC?**
-
-gRPC is a high-performance, open-source, and universal remote procedure call (RPC) framework initially developed by Google. It leverages HTTP/2 for transport, Protocol Buffers (Protobuf) for interface definition, and supports multiple programming languages. gRPC offers advantages like bidirectional streaming, multiplexing, and automatic load balancing, making it an excellent choice for modern web applications.
-
 ```yaml
 npm install grpc
 ```
