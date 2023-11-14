@@ -198,6 +198,15 @@ Terraform isn't a lone sorcerer; it's part of a vibrant ecosystem of resources a
 3. **Maintenance:** Keep an eye on module and provider updates. As the cloud world evolves, new versions may be released to support the latest features and APIs.
     
 
+## **Further Reading**
+
+* **20 Terraform Best Practices to Improve your TF workflow -** [https://spacelift.io/blog/terraform-best-practices](https://spacelift.io/blog/terraform-best-practices)
+    
+* **What is Terraform? -** [https://developer.hashicorp.com/terraform/intro](https://developer.hashicorp.com/terraform/intro)
+    
+* **Terraform Tutorial – Getting Started With Terraform on AWS -** [https://spacelift.io/blog/terraform-tutorial](https://spacelift.io/blog/terraform-tutorial)
+    
+
 ## **Conclusion**
 
 In this magical journey through Terraform, we've gone from understanding its fundamental concepts to unraveling its secrets and best practices. Here's a quick recap of the key takeaways:
