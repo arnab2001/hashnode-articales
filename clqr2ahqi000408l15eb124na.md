@@ -1,7 +1,7 @@
 ---
 title: "Building Real-Time Chat Functionality with Socket.IO in Node.js"
 seoTitle: "Unlock Instant Chat with Node.js & MongoDB: Power Real-Time Comms"
-seoDescription: "Build a chat app with instant messaging using Node.js, MongoDB, and Socket.IO for seamless real-time conversations."
+seoDescription: "Integrate chat feature in apps with instant messaging using Node.js, MongoDB, and Socket.IO for seamless real-time conversations."
 datePublished: Fri Dec 29 2023 20:03:42 GMT+0000 (Coordinated Universal Time)
 cuid: clqr2ahqi000408l15eb124na
 slug: building-real-time-chat-functionality-with-socketio-in-nodejs
